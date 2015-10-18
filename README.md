@@ -5,7 +5,7 @@ Experimentos con ESP8266 en Linux
 
 ESP8266 con 512KB (4Mb):
 * [Firmware AT](./ESP201_AT.md)
-* [Enviar datos a ThingSpeak con Arduino + ESP8266](./ThingSpeak/Readme.md)
+* [Enviar datos a ThingSpeak con Arduino + ESP8266](./ThingSpeak)
 * Firmware NodeMCU
 
 ![](images/ESP201-1.png)
