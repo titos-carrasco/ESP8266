@@ -20,7 +20,7 @@ Al conectar el ESP-201 a un arduino o a un adaptador serial USB aTTL considere l
 * Conecte GND del arduino o del adaptador USB a TTL a GND del ESP-201
 * No alimente el ESP-201 con la línea 3.3V del arduino o del adaptador USB a TTL dado que no suministran suficiente corriente
 * Conecte RX del arduino o del adaptador USB a TTL a TX del ESP-201.
-* Conecte TX del arduino o del adaptador USB a TTL  (si no es 3.3V) a RX del ESP-201 a través de un divisor de voltaje. En particular, utilizo un LED en lugar de una resistencia de 10K obteniendo los mismos resultados:
+* Conecte TX del arduino o del adaptador USB a TTL  (si no es 3.3V) a RX del ESP-201 a través de un divisor de voltaje:
 
 ![](images/DivisorDeVoltaje.png)
 
