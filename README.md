@@ -13,7 +13,7 @@ ESP8266 con 512KB (4Mb):
 
 ## ESP-01 ##
 
-ESP8266 con 512KB (4Mb):
+ESP8266 con 4096KB (32Mb):
 * [Firmware AT](./ESP01_AT.md)
 
 ![](images/ESP01-1.png)

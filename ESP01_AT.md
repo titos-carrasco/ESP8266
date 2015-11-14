@@ -1,4 +1,4 @@
-# ESP-201: Firmare AT
+# ESP-01: Firmare AT
 
 Recordar que el ESP8266 opera con 3.3V y conectar algún pin a 5V "podría" dañarlo.
 ## Conexiones ##
